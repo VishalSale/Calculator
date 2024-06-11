@@ -2,6 +2,10 @@
 
 This is a simple calculator web application built using HTML, CSS, and JavaScript. It provides basic arithmetic operations and a user-friendly interface.
 
+# Live Demo
+
+You can try out the calculator directly on the web: [Calculator](https://vishalsale.github.io/Calculator/).
+
 ## Features
 
 - **Clear**: Clear the current input.
@@ -22,19 +26,15 @@ To view and use the calculator, you need a web browser.
 
 ### Installation
 
-No installation is required. You can directly access the calculator via the link provided below.
+No installation is required. You can directly access the calculator via the [Calculator](https://vishalsale.github.io/Calculator/)
 
 ### Usage
 
-1. Open the calculator in your web browser by visiting the [Simple Calculator](https://vishalsale.github.io/Calculator/) website.
+1. Open the calculator in your web browser by visiting the [Calculator](https://vishalsale.github.io/Calculator/) website.
 2. Use the buttons on the calculator interface to input numbers and operations.
 3. Click the "=" button to calculate the result.
 4. Use the "C" button to clear the input and start a new calculation.
 5. Use the "←" button to delete the last character if you make a mistake.
-
-## Live Demo
-
-You can try out the calculator directly on the web: [Simple Calculator](https://vishalsale.github.io/Calculator/).
 
 ## Acknowledgements
 
